@@ -1,0 +1,13 @@
+{
+  "name": "graphql_server",
+  "version": "1.0.0",
+  "description": "Node.js Apollo GraphQL server for CRUD operations on actors and movies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
+}
